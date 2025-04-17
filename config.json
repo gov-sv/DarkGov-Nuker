@@ -1,0 +1,8 @@
+{
+    "nuke_on_join": "false",
+    "rename_guild": "Gov Owns You",
+    "channel_names": "Nuked By Gov",
+    "text": "@everyone Nuked By Gov : https://github.com/gov-sv/DarkGov-Nuker/",
+    "token": "",
+    "pfp_url": "https://media.discordapp.net/attachments/1355621145927352490/1362201357641191535/b30717b9e7f8b5abffa42af49038ebd6.jpg?ex=68018860&is=680036e0&hm=fa7bbf08d472150d7448aae8d2ab371c60522f1d471319b8966bc12375b6660a&=&format=webp&width=642&height=642"
+}
